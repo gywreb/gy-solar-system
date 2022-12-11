@@ -1,0 +1,12 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.solarSystem-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
